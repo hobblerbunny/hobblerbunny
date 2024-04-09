@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hobblerbunny
+- 👋 Hi, I’m Judson
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning how to code
 - 💞️ I’m looking to collaborate on code projects
